@@ -1,18 +1,17 @@
-<p align="center">
-   <strong>Hi There! I am <em>Raees</em></strong> 👋 
-</p>
+# <p align="center"><strong>Hi There! I am <em>Raees</em></strong> 👋 </p>                                              
 
+### I'm Final Year Student of Computer Engineering at UET, Lahore, Pakistan, Founder of XpertlabZ and Executive Head of Research and Innovation at SQIT Lab, UET.
+🧩 I'm a passionate web developer and a pythoneer.  
+🌱 I’m currently learning javascript and further getting deep into it.  
+👯 I’m looking to work on several open source projects and contribute in them to gain experience.  
+🥅 2023 Goals: Be a super full stack developer.  
 
-                                               
-
-*I'm Final Year Student of Computer Engineering at UET, Lahore, Pakistan, Founder of Bit-By-Bit and Executive Head of Research and Innovation at UET Science Society.
-*🧩 I'm a passionate web developer and a pythoneer.
-*🌱 I’m currently learning javascript and further getting deep into it.
-*👯 I’m looking to work on several open source projects and contribute in them to gain experience.
-*🥅 2023 Goals: Be a super full stack developer.
-
-Connect with me:
-Gmail LinkedIn Connect StackOverflow HackerRank Kaggle
+Connect with me:  
+Gmail 
+LinkedIn 
+StackOverflow 
+HackerRank 
+Kaggle
 
 GitHub followers 
 
