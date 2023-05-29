@@ -26,16 +26,6 @@
 </p>
 
 
-
-
-
- 
-StackOverflow 
-HackerRank 
-Kaggle
-
-GitHub followers 
-
 Technologies Stack
 Jupyterpandas scikit_learn opencv selenium seaborn html5 css3 bootstrap react npm git github vs vs django flask flutter matlab mysql postgresql mssql firebase postman spring tensorflow unity
 
