@@ -1,12 +1,15 @@
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15` #Hi There! I am Raees 👋
-                                                 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+<p align="center">
+   <strong>Hi There! I am <em>Raees</em></strong> 👋 
+</p>
+
+
+                                               
 
 *I'm Final Year Student of Computer Engineering at UET, Lahore, Pakistan, Founder of Bit-By-Bit and Executive Head of Research and Innovation at UET Science Society.
-*🧩 I'm ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer.
-*🌱 I’m currently learning new technologies.
-*👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers.
-*🥅 2022 Goals: Contribute more to Open Source projects.
+*🧩 I'm a passionate web developer and a pythoneer.
+*🌱 I’m currently learning javascript and further getting deep into it.
+*👯 I’m looking to work on several open source projects and contribute in them to gain experience.
+*🥅 2023 Goals: Be a super full stack developer.
 
 Connect with me:
 Gmail LinkedIn Connect StackOverflow HackerRank Kaggle
