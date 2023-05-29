@@ -7,7 +7,9 @@
 🥅 2023 Goals: Be a super full stack developer.  
 
 Connect with me:  
-Gmail 
+Connect with me:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeesjutt107@gmail.com)
+
 LinkedIn 
 StackOverflow 
 HackerRank 
