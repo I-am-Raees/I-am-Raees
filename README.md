@@ -6,11 +6,18 @@
 👯 I’m looking to work on several open source projects and contribute in them to gain experience.  
 🥅 2023 Goals: Be a super full stack developer.  
 
-Connect with me:  
-Connect with me:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeesjutt107@gmail.com)
+# <p align="center"><strong><em>Connect with me</em></strong> </p>
+<p align="center">
+  <a href="mailto:raeesjutt107@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-LinkedIn 
+
+ 
 StackOverflow 
 HackerRank 
 Kaggle
