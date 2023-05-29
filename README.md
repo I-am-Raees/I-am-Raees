@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raees-ahmad-%E2%98%80%EF%B8%8F-development-geek-softwaresolutions-webdevelopment-appdevelopment" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow-profile" style="margin-right: 20px;">
+  <a href="https://stackoverflow.com/users/user:18645330" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
