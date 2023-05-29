@@ -17,7 +17,14 @@
   <a href="https://stackoverflow.com/users/18645330" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
+  <a href="https://www.kaggle.com/Raees_Ahmad_123" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://www.hackerrank.com/profile/194" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
 </p>
+
 
 
 
