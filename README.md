@@ -1,9 +1,9 @@
 # <p align="center"><strong>Hi There! I am <em>Raees</em></strong> 👋 </p>                                              
 
 ### I'm Final Year Student of Computer Engineering at UET, Lahore, Pakistan, Founder of XpertlabZ and Executive Head of Research and Innovation at SQIT Lab, UET.
-🧩 I'm a passionate web developer and a pythoneer.  
+🧩 I'm a passionate Front_End web developer and a pythoneer.  
 🌱 I’m currently learning javascript and further getting deep into it.  
-👯 I’m looking to work on several open source projects and contribute in them to gain experience.  
+👯 I’m looking to work on several open source projects and contribute to gain experience.  
 🥅 2023 Goals: Be a super full stack developer.  
 
 # <p align="center"><strong><em>Connect with me</em></strong> </p>
